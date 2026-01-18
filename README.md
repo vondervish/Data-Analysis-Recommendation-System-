@@ -31,13 +31,13 @@ Built using **Sentence Transformers** to recommend top 5 similar titles based on
 Used **Bokeh** and **NetworkX** to build interactive bipartite graphs that reveal relationships between entities like titles, genres, directors, and cast.
 
 ### Graphs:
-| Graph Type | Description | File |
-|------------|-------------|------|
-| 🎭 Cast–Title | Shows which cast appear in which titles | [`Cast_Title_Bipartite.html`](network_analysis/Cast_Title_Bipartite.html) |
-| 🎬 Director–Title | Links directors to their titles | [`Director_Title_Bipartite.html`](network_analysis/Director_Title_Bipartite.html) |
-| 🎞️ Director–Genre | Reveals preferred genres of each director | [`Director_Genre_Bipartite.html`](network_analysis/Director_Genre_Bipartite.html) |
-| 🎥 Director–Cast | Shows frequent collaborations | [`Director_Cast_Bipartite.html`](network_analysis/Director_Cast_Bipartite.html) |
-| 🌐 Combined Network View | Unified view of all major entity relationships | [`Combined_Network_Graph.html`](network_analysis/Combined_Network_Graph.html) |
+| Graph Type | Description | Live Link |
+|------------|-------------|-----------|
+| 🎭 Cast–Title | Shows which cast appear in which titles | [View Graph](https://vondervish.github.io/Data-Analysis-Recommendation-System-/Cast_Title_Bipartite.html) |
+| 🎬 Director–Title | Links directors to their titles | [View Graph](https://vondervish.github.io/Data-Analysis-Recommendation-System-/Director_Title_Bipartite.html) |
+| 🎞️ Director–Genre | Reveals preferred genres of each director | [View Graph](https://vondervish.github.io/Data-Analysis-Recommendation-System-/Director_Genre_Bipartite.html) |
+| 🎥 Director–Cast | Shows frequent collaborations | [View Graph](https://vondervish.github.io/Data-Analysis-Recommendation-System-/Director_Cast_Bipartite.html) |
+| 🌐 Combined Network View | Unified view of all major entity relationships | [View Graph](https://vondervish.github.io/Data-Analysis-Recommendation-System-/Combined_Network_Graph.html) |
 
 > To view: open each `.html` file in your browser. Graphs are zoomable and pannable.
 
