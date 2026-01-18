@@ -73,13 +73,19 @@ Designed interactive dashboards to visualize Netflix’s content strategy, catal
 
 ---
 
+<pre>
 ## 📁 Folder Structure
-├── src/                    # Python code for recommendation logic
-├── network_analysis/       # Bipartite graphs + notebook
-├── dashboards/             # Tableau .twbx files
-├── images/                 # Screenshots for README
-├── docs/                   # HTML files for GitHub Pages
-└── README.md
+
+```
+netflix-data-insights/
+├── src/                     # Python code for recommendation logic
+├── network_analysis/        # Bipartite graph notebook (.ipynb)
+├── dashboards/              # Tableau dashboard files (.twbx)
+├── images/                  # Dashboard screenshots for README
+├── docs/                    # HTML files for GitHub Pages (interactive graphs)
+├── README.md                # Project documentation
+```
+</pre>
 
 ---
 
