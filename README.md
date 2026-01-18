@@ -33,11 +33,11 @@ Used **Bokeh** and **NetworkX** to build interactive bipartite graphs that revea
 ### Graphs:
 | Graph Type | Description | Live Link |
 |------------|-------------|-----------|
-| 🎭 Cast–Title | Shows which cast appear in which titles | [View Graph](https://vondervish.github.io/Data-Analysis-Recommendation-System-/Cast_Title_Bipartite.html) |
-| 🎬 Director–Title | Links directors to their titles | [View Graph](https://vondervish.github.io/Data-Analysis-Recommendation-System-/Director_Title_Bipartite.html) |
-| 🎞️ Director–Genre | Reveals preferred genres of each director | [View Graph](https://vondervish.github.io/Data-Analysis-Recommendation-System-/Director_Genre_Bipartite.html) |
-| 🎥 Director–Cast | Shows frequent collaborations | [View Graph](https://vondervish.github.io/Data-Analysis-Recommendation-System-/Director_Cast_Bipartite.html) |
-| 🌐 Combined Network View | Unified view of all major entity relationships | [View Graph](https://vondervish.github.io/Data-Analysis-Recommendation-System-/Combined_Network_Graph.html) |
+| 🎭 Cast–Title | Casts per title | [View Graph](https://vondervish.github.io/netflix-data-insights/Cast_Title_Bipartite.html) |
+| 🎬 Director–Title | Directors and their titles | [View Graph](https://vondervish.github.io/netflix-data-insights/Director_Title_Bipartite.html) |
+| 🎞️ Director–Genre | Genre preferences of directors | [View Graph](https://vondervish.github.io/netflix-data-insights/Director_Genre_Bipartite.html) |
+| 🎥 Director–Cast | Frequent collaborations | [View Graph](https://vondervish.github.io/netflix-data-insights/Director_Cast_Bipartite.html) |
+| 🌐 Combined Network View | Unified entity network | [View Graph](https://vondervish.github.io/netflix-data-insights/Combined_Network_Graph.html) |
 
 > To view: open each `.html` file in your browser. Graphs are zoomable and pannable.
 
